@@ -441,3 +441,25 @@ MIT — see [LICENSE](LICENSE).
 - [mertizci/noai-watermark](https://github.com/mertizci/noai-watermark) (CLI/Python toolkit for SynthID/StableSignature/TreeRing removal and AI metadata stripping)
 - [0xROOTPLS/DeSynth](https://github.com/0xROOTPLS/DeSynth) (SynthID removal for OpenAI/Google images)
 - Institute of AI PM, [*AI Content Provenance and Watermarking: The PM's Guide to C2PA and SynthID*](https://www.institutepm.com/knowledge-hub/ai-content-provenance-watermarking) (two-layer industry model: C2PA + imperceptible watermark / soft binding; SB 942 / EU AI Act Art. 50 context)
+
+
+---
+
+## ⚠️ Scoras Digital DevOps Agent — Verificação
+
+[![DevOps Score](https://img.shields.io/badge/DevOps%20Score-54%2F100%20(C)-yellow?style=for-the-badge&logo=github)](./andersonamaral2_watermarks-remover_2026-08-14.md)
+[![Scoras DevOps Agent](https://img.shields.io/badge/Scoras_DevOps_Agent-Verificado-blue?style=for-the-badge&logo=githubactions)](https://github.com/andersonamaral2/watermarks-remover)
+
+| Campo | Valor |
+|-------|-------|
+| 🤖 Avaliado por | Scoras Digital DevOps Agent |
+| 📅 Data da Avaliação | `14/08/2026` |
+| 📊 Score DevOps & Segurança | `54/100` |
+| 🎯 Nota | C — Regular |
+| 📄 Relatório Completo | [andersonamaral2_watermarks-remover_2026-08-14.md](./andersonamaral2_watermarks-remover_2026-08-14.md) |
+
+> *Este repositório foi auditado automaticamente pelo **Scoras Digital DevOps Agent**,*  
+> *verificando métricas DORA, CI/CD, segurança (CVEs, secrets, SAST) e boas práticas.*  
+> *Última avaliação: **14/08/2026***
+
+---
